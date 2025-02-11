@@ -19,6 +19,7 @@ namespace TestGitFive
         public MainWindow()
         {
             InitializeComponent();
+            string s = "";
         }
     }
 }
