@@ -10,5 +10,6 @@ namespace TestGitFive
     {
         public int ID { get; set; }
         public string DName { get; set; }
+        public string XName { get; set; }
     }
 }
