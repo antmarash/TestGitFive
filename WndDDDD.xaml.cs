@@ -22,6 +22,7 @@ namespace TestGitFive
         public WndDDDD()
         {
             InitializeComponent();
+            //dssdfsddf
         }
     }
 }
